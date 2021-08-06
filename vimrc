@@ -1,3 +1,4 @@
+"curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 " 取消备份
 set nobackup
 set noswapfile
